@@ -1,0 +1,32 @@
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+.vscode/
+.idea/
+
+# Build / temp
+*.sln
+*.VC.db
+*.VC.opendb
+*.opensdf
+*.sdf
+*.suo
+*.user
+*.log
+*.tmp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Crash reports
+CrashReportClient/
+
+# Rider/VS
+*.ipch
+
+# Optional: packaged builds (usually don't commit)
+Builds/
