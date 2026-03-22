@@ -31,7 +31,7 @@ For full game play video: [Full Game Play](https://youtu.be/MLnuCygSu2c)
 | Highlight | Show interactable objects in range |
 | Flashlight | Toggle flashlight for dark areas |
 
-![Controls](images/GameControl.png)
+![Controls](Images/GameControl.png)
 
 ---
 
