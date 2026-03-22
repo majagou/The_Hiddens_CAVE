@@ -31,7 +31,7 @@ For full game play video: [Full Game Play](https://youtu.be/MLnuCygSu2c)
 | Highlight | Show interactable objects in range |
 | Flashlight | Toggle flashlight for dark areas |
 
-![Controls Placeholder](images/controller-layout-placeholder.png)
+![Controls](images/GameControl.png)
 
 ---
 
@@ -44,8 +44,6 @@ A custom outline material highlights objects when the player is within interacti
 - Triggered by overlap detection
 - Helps guide attention in dark scenes
 
-![Highlight System Detail Placeholder](images/highlight-detail-placeholder.png)
-
 ### Pickup System
 Players can grab and carry physics-enabled objects as part of the puzzle flow.
 
@@ -53,7 +51,7 @@ Players can grab and carry physics-enabled objects as part of the puzzle flow.
 - Objects are handled with a physics handle
 - Tuned for more stable object movement
 
-![Pickup System Placeholder](images/pickup-detail-placeholder.png)
+![Pickup](Images/pickup.png)
 
 ### Puzzle Logic
 Objects must be placed in the correct location based on puzzle conditions.
@@ -63,7 +61,7 @@ Objects must be placed in the correct location based on puzzle conditions.
 - Correct placement locks the object and updates progress
 - Light feedback indicates success
 
-![Puzzle Validation Placeholder](images/puzzle-validation-placeholder.png)
+![Puzzle](Images/Riddle_Puzzle.png)
 
 ### Portal VFX
 A procedural portal material was created to enhance the supernatural atmosphere.
@@ -72,7 +70,20 @@ A procedural portal material was created to enhance the supernatural atmosphere.
 - Uses radial masks for shape and glow
 - Designed as a lightweight real-time effect
 
-![Portal VFX Placeholder](images/portal-vfx-detail-placeholder.png)
+![Portal VFX](Images/PortalEffects.png)
+
+### Dynamic Jumpscare System
+This system creates a one-time jumpscare by triggering a fast-moving AI character and synchronized sound when the player crosses a trigger zone.
+
+- Implemented with a Character Blueprint and skeletal mesh
+- Uses a single animation asset for lightweight setup
+- Triggered through a level-based overlap event
+- AI navigates to a target point using `AI Move To`
+- A jumpscare sound effect is played on trigger
+- The actor is removed after completing its path
+- Speed tuning was used to control the intensity of the scare
+  
+![Jump Scare](Images/JumpScare.png)
 
 ---
 
