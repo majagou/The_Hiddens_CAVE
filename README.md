@@ -51,7 +51,7 @@ Players can grab and carry physics-enabled objects as part of the puzzle flow.
 - Objects are handled with a physics handle
 - Tuned for more stable object movement
 
-![Pickup](Images/pickup.png)
+![Pickup](Images/pickup.PNG)
 
 ### Puzzle Logic
 Objects must be placed in the correct location based on puzzle conditions.
@@ -61,7 +61,7 @@ Objects must be placed in the correct location based on puzzle conditions.
 - Correct placement locks the object and updates progress
 - Light feedback indicates success
 
-![Puzzle](Images/Riddle_Puzzle.png)
+![Puzzle](Images/Riddle_Puzzle.PNG)
 
 ### Portal VFX
 A procedural portal material was created to enhance the supernatural atmosphere.
@@ -70,7 +70,7 @@ A procedural portal material was created to enhance the supernatural atmosphere.
 - Uses radial masks for shape and glow
 - Designed as a lightweight real-time effect
 
-![Portal VFX](Images/PortalEffects.png)
+![Portal VFX](Images/PortalEffects.PNG)
 
 ### Dynamic Jumpscare System
 This system creates a one-time jumpscare by triggering a fast-moving AI character and synchronized sound when the player crosses a trigger zone.
@@ -83,7 +83,11 @@ This system creates a one-time jumpscare by triggering a fast-moving AI characte
 - The actor is removed after completing its path
 - Speed tuning was used to control the intensity of the scare
   
-![Jump Scare](Images/JumpScare.png)
+![Jumpscare](Images/JumpScare.PNG)
+
+### Flashlight
+
+![Flashlight](Images/Flashlight.PNG)
 
 ---
 
