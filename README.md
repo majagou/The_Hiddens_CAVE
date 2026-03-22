@@ -19,8 +19,8 @@ Players take on the role of an investigator following a missing person case. Aft
 | Contributor | Role | Contact |
 |-------------|------|---------|
 | **Shiyi Gou** | Team Lead, Unreal Engine Developer, Technical Artist | goumaja@gmail.com |
-| **Can Yang** | Environmental Artist | JavaScript, Express | Cherif.Yousri@campus.lmu.de |
-| **Yousri Cherif** | Environmental Artist | React Native | Can.Yang@campus.lmu.de|
+| **Can Yang** | Environmental Artist | Cherif.Yousri@campus.lmu.de |
+| **Yousri Cherif** | Environmental Artist | Can.Yang@campus.lmu.de|
 
 ## Key Features
 Immersive VR escape room designed specifically for a projection-based CAVE environment
