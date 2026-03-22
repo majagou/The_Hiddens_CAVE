@@ -51,7 +51,7 @@ Players can grab and carry physics-enabled objects as part of the puzzle flow.
 - Objects are handled with a physics handle
 - Tuned for more stable object movement
 
-![Pickup](Images/pickup.PNG)
+![Pickup](Images/pickup.png)
 
 ### Puzzle Logic
 Objects must be placed in the correct location based on puzzle conditions.
