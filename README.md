@@ -1,1 +1,1 @@
-[Full Game Play](https://youtu.be/25tzcKgVytU)
+[Teaser](https://youtu.be/25tzcKgVytU)
