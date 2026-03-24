@@ -46,7 +46,7 @@ A custom outline material highlights objects when the player is within interacti
 - Triggered by overlap detection
 - Helps guide attention in dark scenes
 
-![Pickup](Images/highlight.PNG)
+![Pickup](Images/highlight2.PNG)
 
 ### Pickup System
 Players can grab and carry physics-enabled objects as part of the puzzle flow.
