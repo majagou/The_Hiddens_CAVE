@@ -5,7 +5,7 @@ The experience combines **environmental storytelling**, **horror atmosphere**, a
 
 Players take on the role of an investigator following a missing person case. After entering the apartment, they become trapped in a disturbing, crime-scene-like space and must uncover clues, solve puzzles, and reveal the hidden story behind the scene.
 
-[On-hand experience at Open Lab Day 2024 at LRZ](https://openlabday24.v2c.lrz.de/)
+[Hands-on experience on Open Lab Day 2024 at LRZ](https://openlabday24.v2c.lrz.de/)
 
 For teaser: [Teaser](https://youtu.be/25tzcKgVytU)
 
