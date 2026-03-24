@@ -39,15 +39,6 @@ For full game play video: [Full Game Play](https://youtu.be/MLnuCygSu2c)
 
 ## Technical Implementation
 
-### Highlight System
-A custom outline material highlights objects when the player is within interaction range.
-
-- Material-based outline in Unreal Engine
-- Triggered by overlap detection
-- Helps guide attention in dark scenes
-
-![Pickup](Images/highlight2.PNG)
-
 ### Pickup System
 Players can grab and carry physics-enabled objects as part of the puzzle flow.
 
@@ -88,6 +79,15 @@ This system creates a one-time jumpscare by triggering a fast-moving AI characte
 - Speed tuning was used to control the intensity of the scare
   
 ![Jumpscare](Images/JumpScare.PNG)
+
+### Highlight System
+A custom outline material highlights objects when the player is within interaction range.
+
+- Material-based outline in Unreal Engine
+- Triggered by overlap detection
+- Helps guide attention in dark scenes
+
+![Pickup](Images/highlight2.PNG)
 
 ### Flashlight
 
